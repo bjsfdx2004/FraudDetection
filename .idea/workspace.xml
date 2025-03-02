@@ -5,26 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4a256794-4a6b-4607-a658-0266ddebdbd9" name="Changes" comment="init">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hsbc/fd/config/ConstConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hsbc/fd/config/JacksonConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hsbc/fd/controller/MockController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hsbc/fd/controller/exception/GlobalExceptionHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hsbc/fd/controller/response/R.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hsbc/fd/controller/response/ResponseEnum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hsbc/fd/entity/Transaction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hsbc/fd/mock/MockKafkaBroker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hsbc/fd/mock/MockKafkaConsumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hsbc/fd/mock/MockKafkaFraudDetectionRuleChangeNotifyConsumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hsbc/fd/mock/MockKafkaTransactionConsumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hsbc/fd/mock/MockRedis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hsbc/fd/rule/FraudDetectionRule.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hsbc/fd/rule/impl/BlackListAccountFraudDetectionRule.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hsbc/fd/rule/impl/MaxAmountFraudDetectionRule.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hsbc/fd/rule/impl/chain/FraudDetectionRuleChain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hsbc/fd/rule/impl/chain/FraudDetectionRuleFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/logback.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/video/2025-03-02 18-53-10.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/video/2025-03-02 19-13-13.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/video/2025-03-02 19-54-41.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/video/2025-03-02 20-26-20.mp4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -122,7 +107,9 @@
       <workItem from="1740870006068" duration="2353000" />
       <workItem from="1740872386637" duration="1237000" />
       <workItem from="1740873643556" duration="603000" />
-      <workItem from="1740902477646" duration="2609000" />
+      <workItem from="1740902477646" duration="3105000" />
+      <workItem from="1740906333125" duration="6860000" />
+      <workItem from="1740920852912" duration="94000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1740850106809</created>
